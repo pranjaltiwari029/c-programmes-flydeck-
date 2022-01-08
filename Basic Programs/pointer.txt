@@ -1,0 +1,7 @@
+*ptr in printf - value of that variable jisko pointer point kar raha ahia
+*ptr in int, float, char - it is initiziation of pointer varibale 
+ex - int *ptr = &a 
+
+&a - address of a 
+&ptr - address of pointer 
+ptr - valuue of pointer (Iske ander adrees hoga a ka)

@@ -1,0 +1,11 @@
+stdio - standard input output file 
+Python and JS -> Line by line executions (Interpreter)
+C, C++, C#, java, -> Complier (Translated in one go)
+
+
+install material icon
+
+
+%f %d %c - these are formal specifier 
+
+print(f"thisdfosidfn {} {}")
